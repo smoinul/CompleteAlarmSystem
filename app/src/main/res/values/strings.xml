@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyAlarm</string>
+    <string name="selectTime">Select Time</string>
+    <string name="setAlarm">Set Alarm</string>
+    <string name="cancelAlarm">Cancel Alarm</string>
+    <string name="alarmDetails">Alarm Details</string>
+    <string name="askPermission">Ask Permissions</string>
+</resources>
